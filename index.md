@@ -70,15 +70,15 @@ IT技术部门扁平化管理，领导和同事相处融洽，关系很好。在
 
 # 作品展示
 
+* 进货宝项目:[www.jhb.net](https://www.jhb.net/)
+* 进货团微信服务号项目
 * 健康管理平台：[www.kanbing365.com](http://www.kanbing365.com)
 * 绿色医疗：[www.gre-medical.com](http://www.gre-medical.com/)
 * 彩立方：[www.clfsj.com](http://www.clfsj.com/)
-* 亥姆霍兹中心:[www.helmholtz.cn](http://www.helmholtz.cn/)
-* 看病网:http://us.kanbing365.com/
-* 诊所平台：http://yyclinic.zhimingyayi.com/
-* 牙医微信项目:http://yywechat.zhimingyayi.com/
-* 进货宝项目(https://www.jhb.net/)
-* 进货团微信服务号项目
+* 亥姆霍兹中心: [www.helmholtz.cn](http://www.helmholtz.cn/)
+* 看病网: [us.kanbing365.com](http://us.kanbing365.com/)
+* 诊所平台: [yyclinic.zhimingyayi.com](http://yyclinic.zhimingyayi.com/)
+* 牙医微信项目
 
 # 致谢
 
