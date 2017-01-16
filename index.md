@@ -67,6 +67,7 @@ IT技术部门扁平化管理，领导和同事相处融洽，关系很好。在
 - 前端技术：js、jquery、bootstrap、 Extjs、easyui、jquerymobile、react、ionic
 - 云和开放平台：阿里云存储平台、微信应用开发、服务器部署、WebRTC
 - 其他：nginx、 linux、 postgresql、mysql、mongodb、redis
+
 # 作品展示
 
 * 健康管理平台：[www.kanbing365.com](http://www.kanbing365.com)
@@ -78,6 +79,7 @@ IT技术部门扁平化管理，领导和同事相处融洽，关系很好。在
 * 牙医微信项目:http://yywechat.zhimingyayi.com/
 * 进货宝项目(https://www.jhb.net/)
 * 进货团微信服务号项目
+
 # 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
